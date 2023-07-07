@@ -4,10 +4,10 @@ import {AiOutlineFacebook, AiOutlineInstagram, AiOutlineWhatsApp } from "react-i
 
 export const Footer = () => {
   return (
-    <div className='  py-10  md:text-center text-center bg-black text-white w-full font-mono'>
-      <p className='text-xl text-gray-500  '>@TAFOSCLOTHINGS 2023</p>
+    <div className='  py-10  md:text-center text-center bg-black text-white w-full '>
+      <p className=' text-gray-500  '>@TAFOSCLOTHINGS 2023</p>
      
-      <div className='text-lg text-gray-500 mt-5 uppercase'>
+      <div className=' text-gray-500 mt-5 uppercase'>
       <a href='https://goo.gl/maps/BfW7xzW6TJiZ4ewF7?coh=178571&entry=tt'>Address  : 
         <span  className='text-md text-gray-500'>Iduvai , Tirupur</span>
       <p>Pincode :<span className='text-md text-gray-500'> 641687</span></p>

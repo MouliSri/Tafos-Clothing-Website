@@ -67,8 +67,8 @@ export const Navbar = () => {
 }</h1>
 
    <div className='flex flex-col'>
-    <Link href="/Products"  ><p className='flex text-xl '>Products<GiChainMail className=" text-lg mt-2 ml-2 hover:text-blue-500 animate-bounce"/></p></Link>
-    <Link href="/Products"  ><p className='flex text-xl '>Track Order<SiHelpscout className=" text-sm mt-2 ml-2 hover:text-blue-500 "/></p></Link>
+    <Link href="/Products"  ><p className='flex text-xl '>All Products<GiChainMail className=" text-lg mt-2 ml-2 hover:text-blue-500 animate-bounce"/></p></Link>
+    <Link href="/TrackOrder"  ><p className='flex text-xl '>Track Order<SiHelpscout className=" text-sm mt-2 ml-2 hover:text-blue-500 "/></p></Link>
     
     </div>
     </div>:
